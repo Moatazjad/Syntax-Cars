@@ -1,0 +1,7 @@
+ABC123;M5;BMW;9000;Sport;20;300;8000
+001;Honda;Honda;3000;Sedan;True;False;4000
+H1;Prius;Toyota;30000;Hybrid;500;5;True
+j8;mm;ui;990;Sedan;True;False;99
+78;jj;ii;99;Sedan;False;True;88
+001;Honda;Civic;4000;Sedan;True;False;40
+001;Honda;Civic;5000;Sedan;True;False;40
